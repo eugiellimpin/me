@@ -12,11 +12,11 @@ Right half - <kbd>⌘</kbd><kbd>^</kbd><kbd>L</kbd>
 
 ### Chrome extensions
 
-uBlock Origin
-Lastpass
-Vimium
-Video Speed Controller
-The Great Suspender
+- uBlock Origin
+- Lastpass
+- Vimium
+- Video Speed Controller
+- The Great Suspender
 
 ### Websites
 
